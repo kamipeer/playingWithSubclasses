@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1520334380 source:/home/eric/provesC++/provaSubclasses/testSubclasses/Solver/SolverMechanics.cpp
+	"SolverMechanics.hpp"
+
+1520343882 /home/eric/provesC++/provaSubclasses/testSubclasses/Solver/SolverMechanics.hpp
+	"Solver.hpp"
+
+1520336854 /home/eric/provesC++/provaSubclasses/testSubclasses/Solver/Solver.hpp
+	<vector>
+	<iostream>
+
+1520344700 source:/home/eric/provesC++/provaSubclasses/testSubclasses/main.cpp
+	<iostream>
+	"Solver/SolverMechanics.hpp"
+	"Solver/SolverMechanics.hpp"
+
+1520344729 source:/home/eric/provesC++/provaSubclasses/testSubclasses/Solver/SolverMechanicsBenchmark.cpp
+	"SolverMechanicsBenchmark.hpp"
+
+1520344785 /home/eric/provesC++/provaSubclasses/testSubclasses/Solver/SolverMechanicsBenchmark.hpp
+	"SolverMechanics.hpp"
+
